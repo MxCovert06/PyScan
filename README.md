@@ -1,2 +1,2 @@
 # PyScan
-My attempt at making a python-based network service scanner
+A service scanner written in Python.
